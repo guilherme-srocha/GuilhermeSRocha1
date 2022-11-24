@@ -1,8 +1,8 @@
 ## Olá eu sou o Guilherme Santos Rocha, estudande de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/GuilhermeSRocha1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSRocha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSRocha1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/guilherme-srocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-srocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-srocha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,4 +20,4 @@
   
 </div>
 
-![Snake animation](https://github.com/GuilhermeSRocha1/GuilhermeSRocha1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guilherme-srocha/guilherme-srocha/blob/output/github-contribution-grid-snake.svg)

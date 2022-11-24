@@ -1,7 +1,7 @@
 ## Olá eu sou o Guilherme Santos Rocha, estudande de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/guilherme-srocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-srocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilherme-srocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-srocha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
